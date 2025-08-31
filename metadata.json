@@ -1,0 +1,5 @@
+{
+  "name": "Makossa Movie Maker",
+  "description": "Makossa Movie Maker is a cross-platform desktop application that generates multi-scene animated movies from text prompts, designed to work completely offline after initial model downloads.",
+  "requestFramePermissions": []
+}
